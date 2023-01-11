@@ -16,3 +16,10 @@
 ## first test 
 * username : user & password : Using generated security password in console 
 
+# for test in http client 
+* example : 
+`GET http://localhost:9898/dataTest
+  Accept: application/json
+  Authorization: Basic YWRtaW46MTIzNA==`
+
+* encode user&password by tool Base64-Helper

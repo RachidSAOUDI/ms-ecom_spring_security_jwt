@@ -12,3 +12,7 @@
 * Lombok
 * OAuth2 Resource Server
 * Spring Configuration Processor
+
+## first test 
+* username : user & password : Using generated security password in console 
+
